@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:/Users/hmeji/Desktop/androidDev/tensorflow_demo/exmp/savedFiles/results.ckpt-1"
+all_model_checkpoint_paths: "C:/Users/hmeji/Desktop/androidDev/tensorflow_demo/exmp/savedFiles/results.ckpt-1"
